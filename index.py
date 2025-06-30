@@ -15,7 +15,7 @@ import random
 import re
 import time
 import datetime
-# bot code starts heree
+# bot code starts hereee
 
 load_dotenv()
 # hi its me, you must create an external file named .env, in this file write
